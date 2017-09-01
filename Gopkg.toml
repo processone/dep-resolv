@@ -25,3 +25,8 @@
   name = "github.com/gocql/gocql"
   revision = "7e9748"
 
+[[constraint]]
+  name = "github.com/hailocab/go-hostpool"
+  branch = "master"
+
+
